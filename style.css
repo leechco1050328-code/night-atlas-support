@@ -1,0 +1,5 @@
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#091b28;color:#f4efe3}
+main{max-width:46rem;margin:auto;padding:2rem 1.25rem 4rem;line-height:1.85}
+header,footer{border-block-end:1px solid #756745;padding-block:1rem;color:#ead6aa}
+h1,h2{line-height:1.4;font-family:serif}h2{margin-top:2rem;font-size:1.25rem}
+a{color:#f2d190;text-underline-offset:.2em}a:focus-visible{outline:2px solid currentColor;outline-offset:3px}
